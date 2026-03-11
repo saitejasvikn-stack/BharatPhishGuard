@@ -12,3 +12,4 @@ __pycache__/
 
 # IDE specific (PyCharm)
 .idea/
+ngrok.exe
