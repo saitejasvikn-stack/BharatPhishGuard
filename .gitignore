@@ -1,0 +1,14 @@
+# Secrets and Keys
+.streamlit/
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Local Data and Models
+*.db
+*.pkl
+
+# IDE specific (PyCharm)
+.idea/

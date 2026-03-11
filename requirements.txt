@@ -1,0 +1,9 @@
+streamlit
+google-genai
+joblib
+scikit-learn
+python-whois
+requests
+python-dotenv
+flask
+twilio
